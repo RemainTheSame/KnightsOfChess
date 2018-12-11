@@ -1,0 +1,12 @@
+
+
+.menuLabel{
+    -fx-text-fill: blue;
+    -fx-font-size: 50;
+}
+.menuLabel:hover{
+    -fx-text-fill: aqua;
+}
+.menuLabel:pressed{
+    -fx-text-fill: red;
+}
