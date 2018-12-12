@@ -1,4 +1,4 @@
-package sample;
+package sample.Graphics;
 
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
